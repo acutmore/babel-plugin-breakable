@@ -1,0 +1,19 @@
+{
+  "name": "babel-plugin-stopfn",
+  "version": "0.0.1",
+  "description": "Babel transformer to help debugging functions passed by reference",
+  "main": "src/index.js",
+  "dependencies": {
+    "babel-template": "^6.9.0",
+    "babel-runtime": "^6.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-core": "^6.10.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashley Cutmore",
+  "license": "ISC"
+}
